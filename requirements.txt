@@ -1,0 +1,11 @@
+Flask
+playwright
+pymongo
+python-dotenv
+pdfplumber
+pypdf
+tqdm
+numpy
+sentence-transformers
+faiss-cpu
+groq
